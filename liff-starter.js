@@ -46,7 +46,7 @@ function sendLiff(){
             text: getParameterByName('text'),
             sentBy: {
                 label: "もバンズ",
-                iconUrl: "https://i.ibb.co/HnN4jFP/hlth-up.gif",
+                iconUrl: "https://i.ibb.co/tKhLYX4/activated.gif",
                 linkUrl: "https://Mo-banzu.github.io"
             }
         }]).then(function () {
@@ -59,7 +59,7 @@ function sendLiff(){
             previewImageUrl: getParameterByName('img'),
             sentBy: {
                 label: "もバンズ",
-                iconUrl: "https://i.ibb.co/HnN4jFP/hlth-up.gif",
+                iconUrl: "https://i.ibb.co/tKhLYX4/activated.gif",
                 linkUrl: "https://Mo-banzu.github.io"
             }
         }]).then(function () {
